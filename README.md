@@ -22,12 +22,12 @@ Develop a web application or dashboard for interactive sales forecasting and vis
 
 Tools and Libraries Used:
 
-Python
-pandas
-NumPy
-scikit-learn
-Matplotlib
-seaborn
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- seaborn
 
 Dataset:
 The dataset used in this project is named "advertising.csv" and contains advertising expenditure data for TV, radio, and newspaper mediums, along with corresponding sales figures.
